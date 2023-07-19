@@ -10,3 +10,4 @@ Ingeniería de Datos y Sistemas de Información
 - Working with Subqueries in SQL
 - Mastering SQL Joins
 - SQL Date Time Functions
+- Integración y preparación de datos
